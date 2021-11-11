@@ -1,0 +1,8 @@
+##ignore .idea folders
+**/.idea
+*.iml
+*.xml
+**/out
+*.class
+**/.vscode
+*.docx
